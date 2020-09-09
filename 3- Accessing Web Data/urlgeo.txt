@@ -1,0 +1,75 @@
+{
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "Universidad Nacional",
+                    "short_name": "UNA",
+                    "types": []
+                },
+                {
+                    "long_name": "150",
+                    "short_name": "150",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Nicoya",
+                    "short_name": "Nicoya",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Guanacaste",
+                    "short_name": "Guanacaste",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Costa Rica",
+                    "short_name": "CR",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                }
+            ],
+            "formatted_address": "Universidad Nacional, 150, Nicoya, Costa Rica",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 10.1360069,
+                        "lng": -85.44597379999999
+                    },
+                    "southwest": {
+                        "lat": 10.1336726,
+                        "lng": -85.4474866
+                    }
+                },
+                "location": {
+                    "lat": 10.1345309,
+                    "lng": -85.4467445
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": 10.1361887302915,
+                        "lng": -85.4453812197085
+                    },
+                    "southwest": {
+                        "lat": 10.1334907697085,
+                        "lng": -85.4480791802915
+                    }
+                }
+            },
+            "place_id": "ChIJz_mTlK2wn48R4oo7RudD8hI",
+            "types": []
+        }
+    ],
+    "status": "OK"
+}
